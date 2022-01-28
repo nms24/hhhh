@@ -1,1 +1,2 @@
 git config --global user.name "Najeo Sillah"
+git config --global user.email "nsilla2@illinois.edu"
